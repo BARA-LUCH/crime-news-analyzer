@@ -10,7 +10,9 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
-
+# Who it’s for: 
+- Law enforcement analysts and journalists tracking emerging crime patterns across Hebrew, Arabic, and English sources.
+---
 ## 🎯 What It Does
 
 1. **Upload** a news article screenshot (PNG/JPG) or PDF
