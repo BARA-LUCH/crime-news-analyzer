@@ -18,6 +18,7 @@
 3. **NLP pipeline** runs Named Entity Recognition, sentiment analysis, and keyword extraction
 4. **Interactive map** geocodes all locations and plots a crime hotspot heatmap
 5. **AI report** uses GPT-4o to generate a structured intelligence report
+6. **Processes 500+ articles via OCR, extracts entities and sentiment, and visualizes geographic crime trends via interactive heatmaps.
 
 ---
 
